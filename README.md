@@ -5,11 +5,12 @@ This is a GTK+ minor project using C for semester course. “ABT” – Algorith
 
 It serves as an educational tool demonstrating non-existence of an ideal algorithm; choice of algorithm depends on application and also patterns of input dataset type. Every algorithm has its own niche use where it performs much better than others.
 
-Sorting performed. The two pie charts are indicative of two separate text files that were used to provide inputs for the sorting operation. The percentage indicates the number of test cases out of total for which that particular algorithm performed best. Totaltime indicates the overall time taken by that algorithm for all the test cases taken together.
+##Sorting performed
+The two pie charts are indicative of two separate text files that were used to provide inputs for the sorting operation. The percentage indicates the number of test cases out of total for which that particular algorithm performed best. Totaltime indicates the overall time taken by that algorithm for all the test cases taken together.
 ![Sorting](/screenshots/ABTSort.png)
 
-Searching performed. 
+##Searching performed
 ![Searching](/screenshots/ABTSearch.png)
 
-DiskScheduling simulation performed
+##DiskScheduling simulation performed
 ![DiskScheduling](/screenshots/ABTDiskScheduling.png)
