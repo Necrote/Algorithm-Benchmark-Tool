@@ -1,4 +1,4 @@
-Algorithm Becnhmark Tool (ABT)
+Algorithm Benchmark Tool (ABT)
 =======
 
 This is a GTK+ minor project using C for semester course. “ABT” – Algorithm Benchmarking Tool Based on Execution Time is a software tool which benchmarks runtime performances of various algorithms relevant for operations such as searching, sorting, etc. with custom data inputs. 
